@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842167627109",
+    "project_id": "jobhunt-miso-server",
+    "storage_bucket": "jobhunt-miso-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842167627109:android:d6e50392b0d789f04f058c",
+        "android_client_info": {
+          "package_name": "com.misojobhunt.jobhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842167627109-mr625nta3gs949dim8r1711b32f5ce1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Zzrr-xKAVLOtkBac9chcrrn1Cqr21Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842167627109-mr625nta3gs949dim8r1711b32f5ce1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
